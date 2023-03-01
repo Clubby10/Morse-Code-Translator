@@ -1,2 +1,2 @@
 # Morse-Code-Translator
-Convers a sentence in English to morse code.
+Converts a sentence in English to morse code.
